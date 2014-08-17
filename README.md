@@ -5,8 +5,8 @@
 - [kerokerokerop@gmail.com](mailto:kerokerokerop@gmail.com)
 - [https://github.com/keroxp](https://github.com/keroxp)
 - [http://keroxp.me](http://keroxp.me)
-- (+81) 080-5643-3901
-- **Born**: Dicember 5th, 1991, Ashikaga, Tochigi, Japan
+- (+81) 80-5643-3901
+- **Born**: December 5th, 1991, Ashikaga, Tochigi, Japan
 
 ## Background
 
@@ -16,18 +16,21 @@ And I also worked as mobile application engineer at LoiLo Inc for 4 years.
 Interested in:
 
 - Developping 
-	- mobile application with Objective-C and Swift
-	- front-end of web application with JavaScript
+  - mobile application with Objective-C and Swift
+  - front-end of web application with JavaScript
 - Designing
-	- beautiful, useful user interface
+  - beautiful, useful user interface
 
 ## Work Experience
 
-### [LoiLo Inc](http://loilo.tv/en), Yokohama, Japan
+### [LoiLo Inc](http://loilo.tv/en)., Yokohama, Japan
 
 #### Mobile Software engineer 2010/08 - 
 
-I developed mobile application as a one of main engineer, FAN!; Music-Sharing SNS on iOS. FAN! let you be able to share whatever music you like with your friends. By following your favorite artists, you can get live schedules.   
+I developed mobile application as an principal engineer, FAN!;
+Music-Sharing SNS on iOS. FAN! let you be able to share whatever music
+you like with your friends. By following your favorite artists, you
+can get live schedules.
 
 - [FAN!](http://fan.loilo.tv/en/)
 
