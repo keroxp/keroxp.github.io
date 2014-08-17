@@ -79,7 +79,7 @@ Extension for better event-dribbed programming, inspired by Node.js.
 2010/04 - 2014/03 Keio Univercity, Japan 
 
 **Concentration:**  
-Touchc-based Japanese text input system  
+Touch-based Japanese text input system  
 Toshiyuki MASUI Lab
 
 ## Skills
