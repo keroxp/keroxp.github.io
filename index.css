@@ -1,0 +1,116 @@
+@media all {
+    html, body {
+        margin: 0;
+        padding: 0;
+    }
+
+    h1, h2, h3, h4, h5, p {
+        margin: 0;
+    }
+
+    h1 {
+        margin: 15px 0;
+    }
+
+    h2 {
+        margin: 10px 0;
+    }
+
+    h3 {
+        margin: 7px 0;
+    }
+
+    #main {
+        padding: 15px 30px;
+        max-width: 1024px;
+        margin: 0 auto;
+        display: table;
+    }
+
+    .content {
+        display: table-cell;
+        vertical-align: top;
+    }
+
+    .profile {
+        display: table-cell;
+        width: 188px;
+        padding-top: 15px;
+        vertical-align: top;
+        padding-right: 30px;
+    }
+
+    .profile img {
+        max-width: 100%;
+        max-height: 100%;
+    }
+    .products {
+        display: table;
+    }
+    .products-item {
+        display: table-cell;
+    }
+    .products-title {
+        font-weight: bold;
+        font-size: 15pt
+    }
+    .products-content {
+        display: table;
+    }
+    .products-content > div {
+        display: table-cell;
+        vertical-align: middle;
+    }
+    .products-content > div:first-child {
+        padding-right: 15px
+    }
+    .career {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    .career li {
+        margin-bottom: 15px;
+    }
+
+    .career li div:first-child {
+        font-weight: bold;
+    }
+
+    footer {
+        background-color: #37474F;
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        padding: 15px;
+    }
+}
+
+@media (max-width: 640px) {
+    #main {
+        display: block;
+        margin: 15px 35px;
+    }
+
+    .profile, .content {
+        display: block;
+    }
+
+    .profile {
+        display: block;
+        margin: auto;
+    }
+
+    .products-content {
+        display: block;
+    }
+    .products-content > div {
+        display: block;
+        margin: auto;
+    }
+
+    h1, h2, h3, h4 {
+        text-align: center;
+    }
+}
