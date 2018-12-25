@@ -20,6 +20,12 @@
         margin: 7px 0;
     }
 
+    .caution {
+	background-color: #EF9A9A;
+	padding: 15px;
+	border: 1px solid #B71C1C;
+    }
+
     #main {
         padding: 15px 30px;
         max-width: 1024px;
